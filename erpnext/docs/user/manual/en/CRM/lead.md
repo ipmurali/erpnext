@@ -51,7 +51,7 @@ Customer.
 
 ### Creation via Portal
 
-If a someone creates an account through the website interface is Lead is automatically created, status is Open and the Owner is the webuser.
+If someone creates an account through the website interface is Lead is automatically created, status is Open and the Owner is the webuser.
 
 After registration the webform Addresses is called, where the web user can enter address information.The address is linked to the lead using the **Lead Name-Address Type** as ID.
 
